@@ -1,4 +1,4 @@
-# SmarterCity
+# SmarterCity ☘️
 ## An AI-Driven Sustainable City Planning!!
 
 ### Goal: Develop a cloud-powered platform to analyze urban data, predict trends, and optimize smart city solutions focusing on sustainability.
