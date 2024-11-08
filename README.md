@@ -166,7 +166,7 @@ sustainable-city-planning/
 └── city-planning-frontend/   # Frontend React application
 ```
 
-## Future Expansion Opportunities
+## Future Expansion Opportunities 🔮
 - Crowdsourced Citizen Data: Allow citizens to submit data like traffic reports or energy-saving suggestions to enhance model accuracy.
 - AI-Driven Emergency Response: Integrate disaster prediction and response planning for high-risk areas.
 - Expanded Analytics for Stakeholders: Offer specialized dashboards for policymakers, businesses, and citizens for decision-making.
@@ -174,10 +174,10 @@ sustainable-city-planning/
 By setting up a project like this, your team can create a powerful, scalable platform for sustainable urban planning using the latest tools and technologies, all while aligning with SDGs and ready for future enhancements.
 
 
-## Contributing
+## Contributing 🤝
 
 Feel free to submit pull requests to improve the platform’s features and functionality!
 
-## License
+## License 🪪
 
 This project is licensed under the MIT License.
