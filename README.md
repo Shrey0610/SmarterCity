@@ -1,5 +1,11 @@
+<div align="center">
+   
 # SmarterCity 🌇
 ## An AI-Driven Sustainable City Planning!!
+
+![smartercity](https://github.com/user-attachments/assets/14d7ed00-68b4-495e-b289-c4707cf51e07)
+
+</div>
 
 ### Goal: Develop a cloud-powered platform to analyze urban data, predict trends, and optimize smart city solutions focusing on sustainability.
 ### Scope:
