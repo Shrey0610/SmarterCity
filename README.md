@@ -96,7 +96,7 @@ Develop a cloud-powered platform to analyze urban data, predict trends, and opti
 ```
 
 ## How to start ✨
-1. *Clone this Repo-*
+1. ### Clone this Repo
 ```bash
 git clone https://github.com/Shrey0610/SmarterCity.git
 ```
