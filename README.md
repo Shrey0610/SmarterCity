@@ -41,7 +41,7 @@
 ### Technology Stack [PROTOTYPE]
 HTML, CSS, JavaScript, React, Node.js,	Gemini API, Goggle Colab, MongoDB, Auth0, D3.js, Plotly, or Chart.js, AWS
 
-
+```bash
            +-----------------------------------+
            |        Home Page                  |
            +-----------------------------------+
@@ -85,6 +85,7 @@ HTML, CSS, JavaScript, React, Node.js,	Gemini API, Goggle Colab, MongoDB, Auth0,
            | - Data Management                 |
            +-----------------------------------+
 
+```
 
 ### Future Expansion Opportunities
 - Crowdsourced Citizen Data: Allow citizens to submit data like traffic reports or energy-saving suggestions to enhance model accuracy.
