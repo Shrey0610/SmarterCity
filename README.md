@@ -3,7 +3,7 @@
 # SmarterCity 🌍
 ### An AI-Driven Sustainable City Planning!!
 
-![smartercity](https://github.com/user-attachments/assets/14d7ed00-68b4-495e-b289-c4707cf51e07)
+<img src='https://github.com/user-attachments/assets/14d7ed00-68b4-495e-b289-c4707cf51e07' height='200px' width='200px'>
 
 </div>
 
